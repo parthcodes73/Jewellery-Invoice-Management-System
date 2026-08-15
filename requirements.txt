@@ -1,0 +1,6 @@
+Requirements
+A)python libraries:
+1.pandas
+2.PyMySQL
+3.matplotlib
+B)your MySQL password on device

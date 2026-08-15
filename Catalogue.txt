@@ -1,0 +1,5 @@
+Item,Metal,Weight_g
+Gold Chain,Gold,10
+Gold Ring,Gold,5
+Silver Anklet,Silver,20
+Silver Ring,Silver,5
