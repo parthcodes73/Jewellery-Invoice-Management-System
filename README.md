@@ -26,7 +26,7 @@ A Python-based **Jewellery Invoice System** developed as a Class 12 Informatics 
 * **Pandas** – data handling and CSV processing
 * **Matplotlib** – graphs and data visualization
 * **PyMySQL** – connecting Python with MySQL
-
+ 
 ## Project Structure
 
 ```text
@@ -52,6 +52,7 @@ Make sure you have:
 * MySQL Server
 * A MySQL database named `jewellery_db`
 * The required Python libraries
+* **( P.S. :please enter your own mysql password in the code before using it in the designated area of the code near the first 10 lines** )
 
 Install the Python libraries using:
 
